@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Problem statement}{3}{0}{1}
+\beamer@sectionintoc {2}{Existing results}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Method 1}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Method 2}{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{Method 3}{6}{0}{2}
+\beamer@sectionintoc {3}{Comparative study}{6}{0}{3}

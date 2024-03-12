@@ -1,0 +1,11 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Introducción}{3}{}%
+\contentsline {chapter}{\numberline {2}Uso de la IA en la banca}{4}{}%
+\contentsline {chapter}{\numberline {3}\textit {Middle office}: control de riesgos}{6}{}%
+\contentsline {section}{\numberline {3.1}Riesgos Operacionales}{7}{}%
+\contentsline {section}{\numberline {3.2}Riesgos de mercados}{7}{}%
+\contentsline {section}{\numberline {3.3}Ciberseguridad}{7}{}%
+\contentsline {section}{\numberline {3.4}Reputación}{8}{}%
+\contentsline {section}{\numberline {3.5}Negocio}{8}{}%
+\contentsline {chapter}{\numberline {4}\textit {Middle office}: detección de fraudes}{9}{}%
+\contentsline {chapter}{\numberline {5}Conclusión}{11}{}%

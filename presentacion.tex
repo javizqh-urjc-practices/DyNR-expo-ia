@@ -1,0 +1,61 @@
+\documentclass{beamer}
+%Information to be included in the title page:
+\title[Impacto IA en finanzas]{IA en seguridad bancaria}
+\author{Javier Izquierdo Hernández}
+\institute{Universidad Rey Juan Carlos}
+\date{\today}
+\usetheme{Ilmenau}
+\usecolortheme{seahorse}
+
+\begin{document}
+	
+	\frame{\titlepage}
+	
+	\begin{frame}{Índice}
+		\tableofcontents
+	\end{frame}
+	
+	% Current section
+	\AtBeginSection[ ]
+	{
+		\begin{frame}{Índice}
+			\tableofcontents[currentsection]
+		\end{frame}
+	}
+	% Presentation structure
+	\section{Problem statement}
+	\begin{frame}
+		\frametitle{Sample frame title}
+		This is some text in the first frame. This is some text in the first frame. This is some text in the first frame.
+	\end{frame}
+	
+	\section{Existing results}
+	\subsection{Method 1}
+	\subsection{Method 2}
+	\subsection{Method 3}
+	\section{Comparative study}
+	\section*{References}
+	
+
+	
+	\begin{frame}
+		\frametitle{Sample frame title}
+		
+		In this slide, some important text will be
+		\alert{highlighted} because it's important.
+		Please, don't abuse it.
+		
+		\begin{block}{Remark}
+			Sample text
+		\end{block}
+		
+		\begin{alertblock}{Important theorem}
+			Sample text in red box
+		\end{alertblock}
+		
+		\begin{examples}
+			Sample text in green box. The title of the block is ``Examples".
+		\end{examples}
+	\end{frame}
+	
+\end{document}

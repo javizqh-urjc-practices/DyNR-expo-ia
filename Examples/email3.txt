@@ -1,0 +1,25 @@
+From: Google noreply@google.com
+Subject: Google Account Deactivation Notice - Action Required
+
+Dear User,
+
+We regret to inform you that your Google account has been deactivated due to inactivity. To continue using our services, we kindly request you to reactivate your account as soon as possible.
+
+To reactivate your account, please follow the link below and log in with your account credentials:
+
+https://myaccount.google.com/
+
+Please note that you must complete the reactivation process within 15 days of receiving this email, otherwise, your account may be permanently deleted.
+
+In case you have forgotten your login credentials, please use the account recovery options available on the login page.
+
+If you encounter any difficulties with the reactivation process, please contact our support team by replying to this email or by visiting our help center.
+
+We encourage you to keep your account active by logging in regularly and updating your security settings. This will help protect your account from unauthorized access and keep your data secure.
+
+Thank you for choosing Google as your online service provider.
+
+Best regards,
+
+The Google Team
+
